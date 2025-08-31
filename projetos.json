@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Financeiro PWA",
+    "url": "https://math-snts.github.io/financeiro-pwa/",
+    "desc": "Aplicativo PWA para controle financeiro, com cache offline.",
+    "tags": ["pwa", "financeiro", "localStorage"]
+  },
+  {
+    "title": "Calculadora de Material Mondiana",
+    "url": "https://example.com/mondiana",
+    "desc": "Ferramenta de cálculo de insumos para extrusão/produção.",
+    "tags": ["calculadora", "produção", "plástico"]
+  },
+  {
+    "title": "Portfólio Template",
+    "url": "https://example.com/portfolio-template",
+    "desc": "Template base com grid, busca, dark mode e comentários via Giscus.",
+    "tags": ["template", "ui", "ux"]
+  }
+]

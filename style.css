@@ -1,0 +1,9 @@
+@import url("https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css");
+
+/* Ajustes extras */
+body {
+  transition: background 0.3s, color 0.3s;
+}
+#previewFrame {
+  border: none;
+}
