@@ -1,20 +1,26 @@
 [
   {
-    "title": "Financeiro PWA",
+    "title": "Financeiro Pessoal",
     "url": "https://math-snts.github.io/financeiro-pwa/",
     "desc": "Aplicativo PWA para controle financeiro, com cache offline.",
     "tags": ["pwa", "financeiro", "localStorage"]
   },
   {
-    "title": "Calculadora de Material Mondiana",
-    "url": "https://example.com/mondiana",
+    "title": "Calculadora de Material por kg desejado",
+    "url": "https://math-snts.github.io/diametrobobina/",
     "desc": "Ferramenta de cálculo de insumos para extrusão/produção.",
     "tags": ["calculadora", "produção", "plástico"]
   },
   {
-    "title": "Portfólio Template",
-    "url": "https://example.com/portfolio-template",
-    "desc": "Template base com grid, busca, dark mode e comentários via Giscus.",
-    "tags": ["template", "ui", "ux"]
+    "title": "Gerador de ZPL para PDF",
+    "url": "https://math-snts.github.io/geradorzpl/",
+    "desc": "Converta códigos ZPL em PDFs para impressão na Shopee utilizando o arquivo zpl de suas vendas.",
+    "tags": ["Shopee", "zpl", "imgtopdf"]
+  },
+  {
+    "title": "Assistente de Produtividade",
+    "url": "https://math-snts.github.io/assisteme/",
+    "desc": "Controle e lembre suas ações e tarefas diárias.",
+    "tags": ["agenda", "tarefas", "produtividade"]
   }
 ]
