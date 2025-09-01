@@ -2,13 +2,13 @@
   {
     "title": "Financeiro Pessoal",
     "url": "https://math-snts.github.io/financeiro-pwa/",
-    "desc": "Aplicativo PWA para controle financeiro, com cache offline.",
+    "desc": "Aplicativo PWA para controle financeiro, com cache offline. Instale no seu celular, em breve em apk e plataforma playstore, utilize para controlar seu financeiro através das entradas de rendas, despesas e cartões de crédito com um resumo mensal que possibilita escolher o mês. Tendo recorrência para não precisar ficar adicionando meses um por um.",
     "tags": ["pwa", "financeiro", "localStorage"]
   },
   {
     "title": "Calculadora de Material por kg desejado",
     "url": "https://math-snts.github.io/diametrobobina/",
-    "desc": "Ferramenta de cálculo de insumos para extrusão/produção.",
+    "desc": "Ferramenta de cálculo de insumos para extrusão/produção. Se você extrusa bobinas plásticas, essa calculadora te permite tirar a bobina com o peso desejado, assim evitando disperdicio nas quantidades ou falta delas.",
     "tags": ["calculadora", "produção", "plástico"]
   },
   {
