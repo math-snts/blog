@@ -56,12 +56,6 @@ function closePreview() {
   document.getElementById("previewFrame").src = "";
 }
 
-// Alternar tema
-const themeToggle = document.getElementById("themeToggle");
-themeToggle.addEventListener("click", () => {
-  document.documentElement.classList.toggle("dark");
-  localStorage.setItem("theme", document.documentElement.classList.contains("dark") ? "dark" : "light");
-});
 function applySavedTheme() {
   const saved = localStorage.getItem("theme");
   if (saved === "dark") {
