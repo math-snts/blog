@@ -1,7 +1,7 @@
 [
   {
     "title": "Financeiro Pessoal",
-    "url": "https://math-snts.github.io/financeiro/",
+    "url": "https://math-snts.github.io/financeiro-pessoal/",
     "desc": "Aplicativo PWA para controle financeiro, com cache offline. Instale no seu celular, em breve em apk e plataforma playstore, utilize para controlar seu financeiro através das entradas de rendas, despesas e cartões de crédito com um resumo mensal que possibilita escolher o mês. Tendo recorrência para não precisar ficar adicionando meses um por um.",
     "tags": ["pwa", "financeiro", "localStorage"]
   },
