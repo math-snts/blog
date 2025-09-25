@@ -11,23 +11,24 @@
     "desc": "Acompanhe seus resultados por periodo, gere suas etiquetas e calcule o valor das vendas",
     "tags": ["Shopee", "financeiro", "controleadm", "gerador de eiquetas"]
   },  
+
   {
-    "title": "Calculadora de Material por kg desejado",
-    "url": "https://math-snts.github.io/diametrobobina/",
-    "desc": "Ferramenta de cálculo de insumos para extrusão/produção. Se você extrusa bobinas plásticas, essa calculadora te permite tirar a bobina com o peso desejado, assim evitando disperdicio nas quantidades ou falta delas.",
-    "tags": ["calculadora", "produção", "plástico"]
-  },
-  {
-    "title": "Gerador de ZPL para PDF",
-    "url": "https://math-snts.github.io/geradorzpl/",
-    "desc": "Converta códigos ZPL em PDFs para impressão na Shopee utilizando o arquivo zpl de suas vendas.",
-    "tags": ["Shopee", "zpl", "imgtopdf"]
+    "title": "Controlar Estoque e vendas",
+    "url": "https://math-snts.github.io/msloja/",
+    "desc": "Controlar seus estoque e vendas tanto para loja fisica e online de forma intuitiva e facilitada.",
+    "tags": ["Shopee", "vendas", "controle"]
   },
   {
     "title": "Assistente de Produtividade",
     "url": "https://math-snts.github.io/assisteme/",
     "desc": "Controle e lembre suas ações e tarefas diárias.",
     "tags": ["agenda", "tarefas", "produtividade"]
+  },
+    {
+    "title": "Calculadora de Material por kg desejado",
+    "url": "https://math-snts.github.io/diametrobobina/",
+    "desc": "Ferramenta de cálculo de insumos para extrusão/produção. Se você extrusa bobinas plásticas, essa calculadora te permite tirar a bobina com o peso desejado, assim evitando disperdicio nas quantidades ou falta delas.",
+    "tags": ["calculadora", "produção", "plástico"]
   },
     {
     "title": "Calculadora orçamentária",
