@@ -18,6 +18,12 @@
     "desc": "Controlar seus estoque e vendas tanto para loja fisica e online de forma intuitiva e facilitada.",
     "tags": ["Shopee", "vendas", "controle"]
   },
+    {
+    "title": "Precifição Ecommerce",
+    "url": "https://math-snts.github.io/precificar/",
+    "desc": "Faça a precificação de suas vendas corretamente, o programa calcula com base no preço de custo mais margem de lucro desejada.",
+    "tags": ["Shopee", "vendas", "controle"]
+  },
   {
     "title": "Assistente de Produtividade",
     "url": "https://math-snts.github.io/assisteme/",
