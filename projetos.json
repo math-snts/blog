@@ -6,6 +6,18 @@
     "tags": ["pwa", "financeiro", "localStorage"]
   },
   {
+    "title": "Assistente de Produtividade",
+    "url": "https://math-snts.github.io/assisteme/",
+    "desc": "Controle e lembre suas ações e tarefas diárias.",
+    "tags": ["agenda", "tarefas", "produtividade"]
+  },
+  {
+    "title": "Documento de venda",
+    "url": "https://math-snts.github.io/orcamento/",
+    "desc": "Faça orçamento ou gere pedido de vendas, possibilidade de incluir mais de 1 item/produto.",
+    "tags": ["vendas", "orçamentos", "produtividade"]
+  },
+  {
     "title": "Shopee Adm",
     "url": "https://math-snts.github.io/shopee/",
     "desc": "Acompanhe seus resultados por periodo, gere suas etiquetas e calcule o valor das vendas",
@@ -24,12 +36,7 @@
     "desc": "Faça a precificação de suas vendas corretamente, o programa calcula com base no preço de custo mais margem de lucro desejada.",
     "tags": ["Shopee", "vendas", "controle"]
   },
-  {
-    "title": "Assistente de Produtividade",
-    "url": "https://math-snts.github.io/assisteme/",
-    "desc": "Controle e lembre suas ações e tarefas diárias.",
-    "tags": ["agenda", "tarefas", "produtividade"]
-  },
+
     {
     "title": "Calculadora de Material por kg desejado",
     "url": "https://math-snts.github.io/diametrobobina/",
