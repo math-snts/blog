@@ -19,9 +19,9 @@
   },
   {
     "title": "Shopee Adm",
-    "url": "https://math-snts.github.io/shopee/",
-    "desc": "Acompanhe seus resultados por periodo, gere suas etiquetas e calcule o valor das vendas",
-    "tags": ["Shopee", "financeiro", "controleadm", "gerador de eiquetas"]
+    "url": "https://math-snts.github.io/geradorzpl/",
+    "desc": "Gere suas etiquetas a partir do arquivo ZPL da Shopee",
+    "tags": ["Shopee", "gerador de eiquetas"]
   },  
 
   {
