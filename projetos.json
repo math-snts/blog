@@ -6,9 +6,9 @@
     "tags": ["pwa", "financeiro", "localStorage"]
   },
     {
-    "title": "Metas",
-    "url": "https://math-snts.github.io/metas/",
-    "desc": "Controle e acompanhamentos de metas.",
+    "title": "Bolso",
+    "url": "https://math-snts.github.io/bolso/",
+    "desc": "Controle financeiro.",
     "tags": ["financeiro", "dividas", "metas pessoais"]
   },
   {
