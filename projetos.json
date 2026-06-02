@@ -9,12 +9,12 @@
     "title": "Bolso",
     "url": "https://math-snts.github.io/bolso/",
     "desc": "Controle financeiro.",
-    "tags": ["financeiro", "dividas", "metas pessoais"]
+    "tags": ["financeiro", "precificação", "vendas", "etiquetas"]
   },
   {
-    "title": "Assistente de Produtividade",
-    "url": "https://math-snts.github.io/assisteme/",
-    "desc": "Controle e lembre suas ações e tarefas diárias.",
+    "title": "PrecifAI",
+    "url": "https://math-snts.github.io/precifai/",
+    "desc": "Gestão de ecommerce",
     "tags": ["agenda", "tarefas", "produtividade"]
   },
   {
