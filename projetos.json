@@ -11,6 +11,12 @@
     "desc": "Controle financeiro.",
     "tags": ["financeiro", "precificação", "vendas", "etiquetas"]
   },
+    {
+    "title": "Shopee Ai",
+    "url": "https://math-snts.github.io/shopeeai/",
+    "desc": "Gestão da sua Shopee",
+    "tags": ["financeiro", "precificação", "vendas", "etiquetas"]
+  },
   {
     "title": "PrecifAI",
     "url": "https://math-snts.github.io/precifai/",
