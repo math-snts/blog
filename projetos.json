@@ -1,21 +1,15 @@
 [
   {
-    "title": "Financeiro Pessoal",
-    "url": "https://math-snts.github.io/financeiro-pessoal/",
-    "desc": "Aplicativo PWA para controle financeiro, com cache offline. Instale no seu celular, em breve em apk e plataforma playstore, utilize para controlar seu financeiro através das entradas de rendas, despesas e cartões de crédito com um resumo mensal que possibilita escolher o mês. Tendo recorrência para não precisar ficar adicionando meses um por um.",
-    "tags": ["pwa", "financeiro", "localStorage"]
-  },
-    {
     "title": "Bolso",
     "url": "https://math-snts.github.io/bolso/",
     "desc": "Controle financeiro.",
     "tags": ["financeiro", "precificação", "vendas", "etiquetas"]
   },
-    {
-    "title": "Shopee Ai",
-    "url": "https://math-snts.github.io/shopeeai/",
-    "desc": "Gestão da sua Shopee",
-    "tags": ["financeiro", "precificação", "vendas", "etiquetas"]
+   {
+    "title": "Calculadora orçamentária",
+    "url": "https://math-snts.github.io/orcamento-pebd/",
+    "desc": "Calcule a quantidade, o peso, o valor unitário, tudo em uma calculadora que possibilita esmiuçar informações sobre sacos plásticos, e de quebra mande o orçamento em pdf das medidas usadas.",
+    "tags": ["calculadora", "pebd(polietileno de baixa densidade)", "produtividade","orçamento"]
   },
   {
     "title": "Documento de venda",
@@ -24,35 +18,9 @@
     "tags": ["vendas", "orçamentos", "produtividade"]
   },
   {
-    "title": "Shopee Adm",
-    "url": "https://math-snts.github.io/geradorzpl/",
-    "desc": "Gere suas etiquetas a partir do arquivo ZPL da Shopee",
-    "tags": ["Shopee", "gerador de eiquetas"]
-  },  
-
-  {
     "title": "Controlar Estoque e vendas",
     "url": "https://math-snts.github.io/msloja/",
     "desc": "Controlar seus estoque e vendas tanto para loja fisica e online de forma intuitiva e facilitada.",
     "tags": ["Shopee", "vendas", "controle"]
-  },
-    {
-    "title": "Precifição Ecommerce",
-    "url": "https://math-snts.github.io/precificar/",
-    "desc": "Faça a precificação de suas vendas corretamente, o programa calcula com base no preço de custo mais margem de lucro desejada.",
-    "tags": ["Shopee", "vendas", "controle"]
-  },
-
-    {
-    "title": "Calculadora de Material por kg desejado",
-    "url": "https://math-snts.github.io/diametrobobina/",
-    "desc": "Ferramenta de cálculo de insumos para extrusão/produção. Se você extrusa bobinas plásticas, essa calculadora te permite tirar a bobina com o peso desejado, assim evitando disperdicio nas quantidades ou falta delas.",
-    "tags": ["calculadora", "produção", "plástico"]
-  },
-    {
-    "title": "Calculadora orçamentária",
-    "url": "https://math-snts.github.io/orcamento-pebd/",
-    "desc": "Calcule a quantidade, o peso, o valor unitário, tudo em uma calculadora que possibilita esmiuçar informações sobre sacos plásticos, e de quebra mande o orçamento em pdf das medidas usadas.",
-    "tags": ["calculadora", "pebd(polietileno de baixa densidade)", "produtividade","orçamento"]
   }
 ]
